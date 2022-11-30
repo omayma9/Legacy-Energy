@@ -1,0 +1,8 @@
+{
+    "BillingCity": "Casablanca",
+    "BillingCountry": "Morocco",
+    "BillingPostalCode": "20450",
+    "BillingStreet": "Marina",
+    "CustomerId": "string",
+    "Name": "Billing Account 3"
+}

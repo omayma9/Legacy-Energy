@@ -1,0 +1,6 @@
+{
+    "FirstName": "%CustomerData:FirstName%",
+    "Industry": "%CustomerData:Industry%",
+    "LastName": "%CustomerData:LastName%",
+    "Phone": "%CustomerData:Telephone%"
+}

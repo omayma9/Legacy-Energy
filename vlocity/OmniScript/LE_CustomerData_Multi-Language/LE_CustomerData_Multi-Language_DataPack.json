@@ -1,0 +1,29 @@
+{
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": false,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": true,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": true,
+    "Language": "Multi-Language",
+    "Name": "Customer Data",
+    "OmniProcessElement": [
+        "LE_CustomerData_Multi-Language_Element_CustomerData.json",
+        "LE_CustomerData_Multi-Language_Element_FirstName.json",
+        "LE_CustomerData_Multi-Language_Element_LastName.json",
+        "LE_CustomerData_Multi-Language_Element_Title.json",
+        "LE_CustomerData_Multi-Language_Element_Industry.json",
+        "LE_CustomerData_Multi-Language_Element_Email.json",
+        "LE_CustomerData_Multi-Language_Element_Birthday.json",
+        "LE_CustomerData_Multi-Language_Element_Telephone.json",
+        "LE_CustomerData_Multi-Language_Element_SetVal_OsOutput_CD.json"
+    ],
+    "OmniProcessType": "OmniScript",
+    "PropertySetConfig": "LE_CustomerData_Multi-Language_PropertySetConfig.json",
+    "SubType": "CustomerData",
+    "Type": "LE",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/LE/CustomerData/Multi-Language",
+    "WebComponentKey": "6c87e955-6c45-4199-6607-60db60722ef2"
+}
